@@ -1,5 +1,5 @@
-compatibility_date = "2025-09-13"然后出了问题，我们无法处理那个文件。不换行 = "danmu"
-keep_vars= 真正的突耳再试一次。软包 ="danmu_api/worker.js"
-移动到页面上的下一个交互元素。使用 减价 进行格式化是受支持的。Editing wrangler.toml 文件 内容 = "2025-09-13"
-名字 = "danmu"= 真正的
-主要的 = "danmu_api/worker.js" = ["nodejs_compat"]
+name = "danmu-api"
+main = "danmu_api/worker.js"
+compatibility_date = "2025-09-13"
+keep_vars = true
+compatibility_flags = ["nodejs_compat"]
